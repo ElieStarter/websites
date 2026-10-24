@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+    
+    box-shadow: 0 0 30px #06a4ff;
+    color: #21c7a8;
+    background-color: #1e293b;
+    
+    /* bg-[#1e293b] hover:drop-shadow-[0_0_10px_#06a4ff] text-[#21c7a8] */
+    /* bg-blue-600 hover:bg-blue-700 */
+    /* hover:scale-[1.02] transition transform duration-300  */
+
+    /* <h2 className="text-4xl font-bold text-blue-400 mb-4 uppercase tracking-wide">
+                    Pourquoi nous choisir ?
+    </h2> */
+}
+
